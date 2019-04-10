@@ -21,7 +21,8 @@ public class TestNGCP4 {
 		
 		driver.get("http://opensource.demo.orangehrmlive.com/");
 	}
-   
+    
+//   
          @Test
    public void testOrange() throws InterruptedException { 
 	   
